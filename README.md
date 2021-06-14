@@ -1,1 +1,2 @@
-# kickstarter_analysis
+# An Analysis of Kickstarter Campaigns
+In this project, I analyzed the data of Kickstarter campaigns worlwide to unconver trends among failed and successful projects. Since my client was interested in funding a play, I also took a closer look at trends based on theater and play Kickstarters with a similar scope as my client's project. Through this analysis, I learned the typical outcomes of play Kickstarter campaigns, as well as trends based on the launch date of a campaign. Finally, I was able to determine what goal amounts and pledged amounts for Kickstater campaigns fell within the interquartile range of data and which amounts were deemed outliers.
